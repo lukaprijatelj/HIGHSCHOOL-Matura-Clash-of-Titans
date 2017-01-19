@@ -1,4 +1,0 @@
-C:\Users\USER\Documents\Visual Studio 2010\Projects\zdruzeni\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\SpopadTitanovContent.contentprojResolveAssemblyReference.cache
-O:\Za C# igrico (naloži na računalnik)\Zadnja\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\SpopadTitanovContent.contentprojResolveAssemblyReference.cache
-C:\Users\USER\Documents\Visual Studio 2010\Projects\zdruzeni (pravi)\WindowsGame2\WindowsGame1\WindowsGame1Content\obj\x86\Release\SpopadTitanovContent.contentprojResolveAssemblyReference.cache
-C:\Users\USER\Documents\Visual Studio 2010\Projects\zdruzeni (pravi)\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\SpopadTitanovContent.contentprojResolveAssemblyReference.cache

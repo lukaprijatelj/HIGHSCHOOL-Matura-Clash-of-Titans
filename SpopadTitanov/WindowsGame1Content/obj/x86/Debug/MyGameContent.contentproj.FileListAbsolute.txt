@@ -1,7 +1,0 @@
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\MyGame\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\Loading and Drawing a Model\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\2 Custom Model Class\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\3 Camera Class\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\4 Arc Ball Camera\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\Sean\Desktop\Book Shared\Chapters\Chapter 1\XNA4\5 Chase Camera and Space Sim\MyGame\MyGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\Users\USER\Desktop\E-books (natisni)\Code Bundle\0041_01_revised code\5 Chase Camera and Space Sim\MyGame\MyGameContent\obj\x86\Debug\MyGameContent.contentprojResolveAssemblyReference.cache
