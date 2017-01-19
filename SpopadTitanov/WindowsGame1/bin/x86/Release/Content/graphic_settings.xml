@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!--DEFAULT NASTAVITVE ZA IGRICO-->
+<Settings>
+  <Width>1280</Width>
+  <Height>720</Height>
+  <BPP>16</BPP>
+  <Full-screen>no</Full-screen>
+  <Sound>yes</Sound>
+</Settings>

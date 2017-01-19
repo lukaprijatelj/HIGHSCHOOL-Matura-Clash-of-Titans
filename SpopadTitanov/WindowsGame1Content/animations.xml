@@ -1,0 +1,693 @@
+<?xml version="1.0"?>
+<!--DEFAULT NASTAVITVE ZA IGRICO-->
+<frame>
+	
+<!-- left_arm -->
+	<default>1</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>1</listid>
+		
+	<default>0</default>
+	<rotx>10</rotx>
+	<roty>140</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>1</listid>
+		
+	<default>0</default>
+	<rotx>10</rotx>
+	<roty>140</roty>
+	<rotz>0</rotz>
+	<time>0.25</time>
+	<listid>1</listid>
+	
+	<default>0</default>
+	<rotx>10</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0.3</time>
+	<listid>1</listid>
+	
+	<default>0</default>
+	<rotx>10</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0.35</time>
+	<listid>1</listid>
+	
+<!-- left_fist -->
+	<default>1</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>2</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>110</roty>
+	<rotz>180</rotz>
+	<time>0.1</time>
+	<listid>2</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>130</roty>
+	<rotz>180</rotz>
+	<time>0.25</time>
+	<listid>2</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>40</roty>
+	<rotz>180</rotz>
+	<time>0.3</time>
+	<listid>2</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>40</roty>
+	<rotz>180</rotz>
+	<time>0.35</time>
+	<listid>2</listid>
+	
+
+<!-- right_arm -->
+	<default>1</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>3</listid>
+	
+	<default>0</default>
+	<rotx>-12</rotx>
+	<roty>8</roty>
+	<rotz>0</rotz>
+	<time>0.15</time>
+	<listid>3</listid>
+	
+<!-- right_fist -->
+	<default>1</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>4</listid>
+	
+	<default>0</default>
+	<rotx>90</rotx>
+	<roty>-6</roty>
+	<rotz>25</rotz>
+	<time>0.15</time>
+	<listid>4</listid>
+	
+	
+<!-- right_leg forward -->
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>5</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>5</listid>
+	
+	<default>0</default>
+	<rotx>-80</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>5</listid>
+	
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>5</listid>
+
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>5</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>5</listid>
+	
+<!-- right_knee -->
+	<default>0</default>
+	<rotx>-50</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>6</listid>	
+	
+	<default>0</default>
+	<rotx>-14</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>6</listid>	
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>6</listid>	
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>6</listid>	
+	
+	<default>0</default>
+	<rotx>-16</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>6</listid>	
+	
+	<default>0</default>
+	<rotx>-50</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>6</listid>
+	
+	
+<!-- right_foot -->
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>7</listid>	
+
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>7</listid>	
+	
+	<default>0</default>
+	<rotx>-9</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>7</listid>	
+	
+	<default>0</default>
+	<rotx>6</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>7</listid>
+	
+	<default>0</default>
+	<rotx>6</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>7</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>7</listid>	
+	
+	
+<!-- left_leg forward -->
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>8</listid>
+	
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>8</listid>
+	
+	<default>0</default>
+	<rotx>-80</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>8</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>8</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>8</listid>
+
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>8</listid>
+	
+<!-- left_knee -->
+	<default>0</default>
+	<rotx>-16</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>9</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>9</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>9</listid>	
+	
+	<default>0</default>
+	<rotx>-14</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>9</listid>	
+	
+	<default>0</default>
+	<rotx>-50</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>9</listid>	
+
+	<default>0</default>
+	<rotx>-16</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>9</listid>
+	
+	
+<!-- left_foot -->
+	<default>0</default>
+	<rotx>6</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>10</listid>
+	
+	<default>0</default>
+	<rotx>6</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>10</listid>
+	
+	<default>0</default>
+	<rotx>-9</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>10</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>10</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>10</listid>	
+
+	<default>0</default>
+	<rotx>6</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>10</listid>	
+	
+	
+	
+<!-- right_leg backward -->
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>11</listid>
+	
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>11</listid>
+	
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>11</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>11</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>11</listid>
+
+	<default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>11</listid>
+		
+		
+<!-- right_knee -->
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>12</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>12</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>12</listid>
+	
+	<default>0</default>
+	<rotx>-18</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>12</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>12</listid>
+
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>12</listid>	
+	
+<!-- right_foot -->
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>13</listid>
+	
+	<default>0</default>
+	<rotx>9</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>13</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>13</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>13</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>13</listid>
+
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>13</listid>		
+	
+	
+<!-- left_leg backward -->
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>14</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>14</listid>
+	
+	<default>0</default>
+	<rotx>-61</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>14</listid>
+	
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>14</listid>
+	
+    <default>0</default>
+	<rotx>-113</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>14</listid>
+	
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>14</listid>
+		
+		
+<!-- left_knee -->
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>15</listid>
+	
+	<default>0</default>
+	<rotx>-18</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>15</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>15</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>15</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>15</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>15</listid>	
+	
+<!-- left_foot -->
+	<default>0</default>
+	<rotx>9</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>16</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>16</listid>
+	
+	<default>0</default>
+	<rotx>-10</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>16</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.4</time>
+	<listid>16</listid>
+	
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.6</time>
+	<listid>16</listid>
+
+	<default>0</default>
+	<rotx>0</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.8</time>
+	<listid>16</listid>		
+	
+	
+	
+<!-- left_arm special -->
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>17</listid>
+	
+	<default>0</default>
+	<rotx>-90</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>17</listid>
+		
+	<default>0</default>
+	<rotx>-20</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>17</listid>	
+	
+	<default>0</default>
+	<rotx>20</rotx>
+	<roty>0</roty>
+	<rotz>0</rotz>
+	<time>0.3</time>
+	<listid>17</listid>		
+	
+<!-- left_fist special -->
+	<default>0</default>
+	<rotx>50</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0</time>
+	<listid>18</listid>
+	
+	<default>0</default>
+	<rotx>50</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0.1</time>
+	<listid>18</listid>
+		
+	<default>0</default>
+	<rotx>50</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0.2</time>
+	<listid>18</listid>	
+
+	<default>0</default>
+	<rotx>50</rotx>
+	<roty>-10</roty>
+	<rotz>0</rotz>
+	<time>0.3</time>
+	<listid>18</listid>	
+	
+</frame>
