@@ -11,5 +11,5 @@ Graphics in this game were made entirely by me. I used Autodesk Maya and Adobe P
 Computer on which you want to run a game must have XNA framework redistributable installed. Without it, game will not work. Also during testing this game, I noticed that some computers couldn't run game. Why is that - I don't know :D
 
 ## Screenshot
-![alt tag](https://raw.githubusercontent.com/mrLukas/HIGHSCHOOL-Matura-Clash-of-Titans/master/Pictures/Main_menu.jpg)
-![alt tag](https://raw.githubusercontent.com/mrLukas/HIGHSCHOOL-Matura-Clash-of-Titans/master/Pictures/First_person_view.jpg)
+![alt tag](https://raw.githubusercontent.com/mrLukas/HIGHSCHOOL-Matura-Clash-of-Titans/master/Images/Main_menu.jpg)
+![alt tag](https://raw.githubusercontent.com/mrLukas/HIGHSCHOOL-Matura-Clash-of-Titans/master/Images/First_person_view.jpg)
